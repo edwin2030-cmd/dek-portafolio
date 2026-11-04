@@ -82,7 +82,7 @@
     ['.panel', '.panel-texto'],
     ['.preguntas', 'h2, .datos, details, .acciones, .alta, .cuadrada'],
     ['.tarjeta', 'h2, p, .horario, .boton'],
-    ['.pie', '.pie-marca, .pie-linea, .creditos'],
+    ['.pie', '.pie-marca, .pie-linea'],
   ];
   const piezas = [];
   grupos.forEach(([sel, hijos]) => {

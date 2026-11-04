@@ -385,8 +385,6 @@ details p { margin-top: 10px; font-size: 17px; color: var(--muted); max-width: 6
 .pie-links a { text-decoration: none; transition: color 160ms var(--ease); }
 .pie-links a:hover { color: var(--accent-hover); }
 .pie-der { text-align: right; }
-.creditos { margin-top: 24px; font-size: 15px; color: var(--muted); max-width: 60ch; }
-.creditos a { color: var(--ink); }
 
 /* ---------- Movimiento ---------- */
 .js .rev { opacity: 0; transform: translateY(24px); }
